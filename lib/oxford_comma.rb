@@ -8,7 +8,7 @@ if array.length == 1
   array.join ("and")
   
 else
-  array.joim
+  array.pop
   
  
  
