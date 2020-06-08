@@ -13,3 +13,4 @@ else
   array.join(", ") << ", and #{lastStr}"
 end
 end
+
