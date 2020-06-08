@@ -10,7 +10,6 @@ if array.length == 1
 else
   array.pop
   
+  array.join(", ") << ", and #{lastStr}"
 end
-
- 
 end
