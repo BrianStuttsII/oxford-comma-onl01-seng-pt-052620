@@ -8,7 +8,7 @@ if array.length == 1
   array.join ("and")
   
 else
-  lassstr =array.pop
+  lastStr =array.pop
   
   array.join(", ") << ", and #{lastStr}"
 end
