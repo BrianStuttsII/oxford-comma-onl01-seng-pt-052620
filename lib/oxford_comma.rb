@@ -10,8 +10,7 @@ if array.length == 1
 else
   array.pop
   
- 
- 
- array.insert and 
+end
+
  
 end
