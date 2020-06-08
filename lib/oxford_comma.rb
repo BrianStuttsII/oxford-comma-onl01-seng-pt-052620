@@ -5,6 +5,7 @@ if array.length == 1
  array.join
  
  
+ 
  array.insert and 
  
 end
